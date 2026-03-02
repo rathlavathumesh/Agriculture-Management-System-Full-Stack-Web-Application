@@ -1,0 +1,2 @@
+# Agriculture-Management-System-Full-Stack-Web-Application
+Agriculture Management System is a full-stack web application connecting farmers, shops, and administrators through a secure, role-based platform. Built with Node.js, Express, React, and SQLite, it enables efficient crop management, inventory tracking, real-time stock validation, and seamless transactions for modern agricultural operations.
